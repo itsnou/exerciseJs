@@ -1,0 +1,8 @@
+.done {
+    text-decoration: line-through;
+}
+
+
+input[type=checkbox]:checked + label.tachado {
+    text-decoration:line-through;
+}
